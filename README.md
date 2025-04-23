@@ -34,5 +34,5 @@ AI와 백엔드 개발, 그리고 컴퓨터공학의 다양한 분야를 탐구�
 
 ---
 
-## 🎯 Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?handle=minsic2000)](https://solved.ac/minsic2000)
+## 🎯 BOJ Profile
+[![BOJ](https://img.shields.io/badge/BOJ-minsic2000-blue?style=flat&logo=codeforces&logoColor=white)](https://www.acmicpc.net/user/minsic2000)
