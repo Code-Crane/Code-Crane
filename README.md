@@ -35,5 +35,4 @@ AI와 백엔드 개발, 그리고 컴퓨터공학의 다양한 분야를 탐구�
 ---
 
 ## 🎯 BOJ Profile
-[![BOJ](https://img.shields.io/badge/BOJ-minsic2000-blue?style=flat&logo=codeforces&logoColor=white)](https://www.acmicpc.net/user/minsic2000)
 ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsic2000)
